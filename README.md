@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+5a3a681262eed989a299c92f10af09ce4b80645e
+
+[![CircleCI](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg&circle-token=5a3a681262eed989a299c92f10af09ce4b80645e)](<LINK>)
 
 ## Project Overview
 
