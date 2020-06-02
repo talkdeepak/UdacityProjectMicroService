@@ -18,6 +18,6 @@ kubectl get pods
 # Forward the container port to a host
 echo "sleeping for 15 seconds while waiting for pod to come up"
 sleep 15
-kubectl port-forward deployment/udacity-microservice 8080:80 
+kubectl port-forward deployment/udacity-microservice 8000:80 
 kubectl logs --selector app=udacity-microservice
 
